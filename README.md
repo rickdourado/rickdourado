@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Me chamo Patrick Ribeiro e sou do Brasil.<br><br>- 🔭 Atualmente trabalho como desenvolvedor Jr.<br>- 📚 Estou estudando CSharp.<br>- ⚡ No meu tempo livre jogo videogame, leio e vejo séries.</p>
+<p align="left">Me chamo Patrick Dourado e sou residente do Estado do Rio de Janeiro, Brasil.<br><br>- 🔭 Sou Arquivista, Desenvolvedor Python e pesquisador de Inteligência Artificial.<br>- 📚 Atualmente estou estudando DevOps e também engenharia avançada de prompts.<br>- ⚡ No meu tempo livre jogo videogames, leio livros, Hqs e vejo séries. Ah sim, também fico enchendo meus gatos lindos.</p>
 
 ###
 
@@ -36,11 +36,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
@@ -60,7 +56,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/rickgateiro/rickgateiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rickdourado/rickdourado/output/snake.svg" alt="Snake animation" />
