@@ -29,6 +29,29 @@
 
 ###
 
+<h3 align="left">🎓 Formação Acadêmica (Academic Background)</h3>
+
+- 🏛️ **Doutor e Mestre em Ciência da Informação** (IBICT/UFRJ)
+- 💻 **Bacharel em Análise e Desenvolvimento de Sistemas** (Estácio)
+- 📂 **Bacharel em Arquivologia** (UNIRIO)
+
+###
+
+<h3 align="left">💼 Atuação Atual (Current Role)</h3>
+
+- 🏛️ **Prefeitura do Rio de Janeiro** | Desenvolvedor Python & Especialista em IA
+  - Foco em automação de serviços ao cidadão e chatbots inteligentes (RAG).
+
+###
+
+<h3 align="left">🚀 Projetos em Destaque (Featured Projects)</h3>
+
+- 🤖 **Chatbot SEI**: Assistente inteligente com RAG para o Sistema Eletrônico de Informações.
+- 🧹 **ServiçosClean**: Padronização de serviços públicos usando Google Gemini API.
+- 📄 **Sistema ATS**: Conversor de currículos otimizado para sistemas de recrutamento.
+
+###
+
 <h3 align="left">🛠 Linguagens de programação e ferramentas</h3>
 
 ###
