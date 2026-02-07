@@ -53,15 +53,28 @@ Doutor e Mestre em Ciência da Informação (IBICT/UFRJ) com transição de carr
 
 ---
 
-### 💼 Experiência Profissional (Work Experience)
+### 💼 Experiência Profissional Recente (Recent Work Experience)
 
 - **🏛️ Prefeitura da Cidade do Rio de Janeiro** | _Desenvolvedor Python / Especialista em IA_ | _Ago 2025 – Atual_
-  - Desenvolvimento de sistemas inteligentes voltados para serviços ao cidadão.
-  - Implementação de chatbots com RAG e automação de processos internos.
+  - Desenvolvimento em Python e utilização de IA em serviços voltados ao cidadão carioca.
+  - Criação de sistemas de curadoria e chatbots inteligentes.
+  - **Destaque**: Padronização de Carta de Serviços e Sistema TaxiRio.
+
 - **🚌 Jaé - CBD Transportes** | _Desenvolvedor .NET e Python_ | _Jan 2025 – Mar 2025_
   - Desenvolvimento de ferramentas de automação documental e análise de dados para o sistema de transportes do RJ.
-- **📄 Safe Conversão Digital** | _Especialista em Requisitos Técnicos e RDC-Arq_ | _Out 2024 – Dez 2024_
+  - Implementação de sistemas de inserção de papel timbrado e geradores de metadados.
+
+- **📄 Safe Conversão Digital** | _Especialista em Requisitos Técnicos e Sistemas RDC-Arq_ | _Out 2024 – Dez 2024_
+  - Responsável por requisitos técnicos de digitalização e sistemas de RDC-Arq.
+  - Desenvolvimento de ferramentas Python para separação automática de PDFs e renomeação em massa.
+
 - **🛢️ Rivic Gestão da Informação (Petrobras)** | _Arquivista / Desenvolvedor_ | _Fev 2022 – Mai 2024_
+  - Gestão Documental Eletrônica e manutenção de sistemas de gestão de documentos.
+  - Desenvolvimento de sistemas de análise de CSV e geração de pendências para grandes volumes de dados.
+
+- **🏥 Fundação Oswaldo Cruz (FIOCRUZ)** | _Arquivista_ | _Out 2019 – Jan 2021_
+  - Gestão Documental, descrição e organização de acervos pessoais e manutenção de repositórios digitais.
+  - Desenvolvimento de quadros de arranjo e vocabulários controlados.
 
 ---
 
@@ -71,28 +84,49 @@ Doutor e Mestre em Ciência da Informação (IBICT/UFRJ) com transição de carr
 
 Sistema robusto de gerenciamento de solicitações de táxi da Prefeitura do RJ.
 
-- **Tech**: FastAPI, SQLAlchemy, SQLAlchemy, MariaDB, Docker.
-- **Foco**: API REST, validação de regras municipais e dashboards administrativos.
+- **Tech**: FastAPI, SQLAlchemy, MariaDB, Docker.
+- **Foco**: API REST, validação de regras municipais e acompanhamento de auditoria.
 
 #### 🤖 **Chatbot SEI (v0.2)**
 
-Assistente inteligente especializado no Sistema Eletrônico de Informações.
+Assistente inteligente com RAG especializado no Sistema Eletrônico de Informações.
 
-- **Tech**: Python, Flask, Google Gemini API, Sistema RAG.
-- **Resultado**: 95% de redução no bundle size ao migrar para Vanilla JS; respostas fiéis ao manual oficial.
+- **Tech**: Python, Flask, Google Gemini API, SQL.
+- **Resultado**: Base de conhecimento estruturada de 11.395 palavras; redução drástica no tempo de carregamento (0.5s).
 
-#### 🧹 **Padronização de Serviços Públicos**
+#### 🧹 **Padronização de Serviços Públicos (1746)**
 
-Padronização de descrições de serviços públicos (1746).
+Automatização da padronização de serviços seguindo manual oficial.
 
 - **Tech**: Python, Google Gemini 2.5 Flash, Vanilla JS.
 - **Resultado**: Automatização do processo seguindo normas oficiais de redação e ao mesmo tempo utilizando uma linguagem simples, visando atender a toda a população carioca.
+
+#### 🎓 **Sistema de Curadoria de Cursos**
+
+Gerenciamento completo para criação e curadoria de cursos da Prefeitura do RJ.
+
+- **Tech**: FastAPI, Jinja2, ReportLab (PDF), SQL.
+- **Funcionalidade**: Geração automática de documentação CSV/PDF e dashboard administrativo.
+
+#### 📄 **Sistema de Automação de PDFs**
+
+Conjunto de ferramentas para alta produtividade documental.
+
+- **Tech**: Tkinter, PyPDF2, FuzzyWuzzy, Tesseract OCR.
+- **Foco**: Separação automática por frases-chave, inserção de papel timbrado e renomeação em massa.
+
+#### 📊 **Acompanhamento de Implementação de Projetos**
+
+Dashboard dinâmico para gestão de status de documentos e projetos.
+
+- **Tech**: React, Vite, Supabase (Auth/DB), Chakra UI.
+- **Funcionalidade**: CRUD completo, filtros avançados e gestão de status em tempo real.
 
 #### 📄 **Sistema ATS - Conversor de Currículos**
 
 Otimizador de currículos para sistemas de recrutamento.
 
-- **Tech**: Flask, PyPDF2, Regex, Bootstrap 5.
+- **Tech**: Flask, Regex, Bootstrap 5.
 
 ---
 
