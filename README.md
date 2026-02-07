@@ -135,6 +135,7 @@ Otimizador de currículos para sistemas de recrutamento.
 - 📜 **Bacharelado em Análise e Desenvolvimento de Sistemas** | Estácio de Sá (2022-2024)
 - 🏛️ **Doutorado em Ciência da Informação** | IBICT/UFRJ (2021-2022)
 - 🏛️ **Mestrado em Ciência da Informação** | IBICT/UFRJ (2011-2013)
+- 🏛️ **Pós-Graduação em Preservação do Patrimônio Cultural** | FIOCRUZ(2010-2011)
 - 📂 **Bacharelado em Arquivologia** | UNIRIO (2004-2008)
 
 ---
